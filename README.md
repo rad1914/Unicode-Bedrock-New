@@ -4,7 +4,7 @@
 เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
 https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
 
-How to get on mobile
+How to install on mobile
 https://youtu.be/GHy_qYswfz0
 
 Unicode usage
