@@ -1,5 +1,10 @@
-# Unicode-Bedrock-New
- Unicode ใหม่สำหรับ Bedrock ลบเครดิต งดอัพเดทงดแจก มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><
+# Unicode-Bedrock-New + The Hive
+
+ Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><
+
+
+Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ The Hive ให้ครับ
+
 
 เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
 https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
@@ -156,5 +161,66 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
 |             U146                   |     All      |          |  -      |![slime_ball](https://user-images.githubusercontent.com/12781303/100518454-2770ff80-31c4-11eb-811a-2eaa070b36dc.png)|
 |             U147                   |     All      |          |  -      |![soul_torch_item](https://user-images.githubusercontent.com/12781303/100518456-2a6bf000-31c4-11eb-87be-3a69abcdfa38.png)|
 |             U148                   |     All      |          |  -      |![torch_item](https://user-images.githubusercontent.com/12781303/100518460-2e980d80-31c4-11eb-97f7-dadae6299984.png)|
+|             U1                   |     All      |          |  -      |![!!lfsfa](https://user-images.githubusercontent.com/12781303/101279047-0dea3c00-37f2-11eb-8fbf-f3f47e58e1e3.png)|
+|             U1                   |     All      |          |  -      |![!emerald_block2](https://user-images.githubusercontent.com/12781303/101279053-193d6780-37f2-11eb-9a34-7c3de066cf70.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_lightning](https://user-images.githubusercontent.com/12781303/101279143-d3cd6a00-37f2-11eb-87e0-b72682b28bce.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_earth](https://user-images.githubusercontent.com/12781303/101279151-ddef6880-37f2-11eb-95a0-ef31f028adcd.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_fire](https://user-images.githubusercontent.com/12781303/101279157-e8a9fd80-37f2-11eb-9166-618321a25ce0.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_healing](https://user-images.githubusercontent.com/12781303/101279166-f19acf00-37f2-11eb-9c6c-ce8a96ede7dd.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_ice](https://user-images.githubusercontent.com/12781303/101279170-f9f30a00-37f2-11eb-8080-3bfd606b320f.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_necromancy](https://user-images.githubusercontent.com/12781303/101279176-05463580-37f3-11eb-999b-575f71d6ddec.png)|
+|             U1                   |     All      |          |  -      |![crystal_block_sorcery](https://user-images.githubusercontent.com/12781303/101279180-0d05da00-37f3-11eb-8def-fe71c893996a.png)|
+|             U1                   |     All      |          |  -      |![crystal_block](https://user-images.githubusercontent.com/12781303/101279188-1b53f600-37f3-11eb-961b-9d5aabd05154.png)|
+|             U1                   |     All      |          |  -      |![crystal_earth](https://user-images.githubusercontent.com/12781303/101279191-23139a80-37f3-11eb-9e2c-95e2f8bf21f3.png)|
+|             U1                   |     All      |          |  -      |![armour_upgrade](https://user-images.githubusercontent.com/12781303/101279206-3aeb1e80-37f3-11eb-8c2c-71d26a44c684.png)|
+|             U1                   |     All      |          |  -      |![astral_diamond](https://user-images.githubusercontent.com/12781303/101279219-548c6600-37f3-11eb-9ef0-b2234279a187.png)|
+|             U1                   |     All      |          |  -      |![cake_rice](https://user-images.githubusercontent.com/12781303/101279222-5bb37400-37f3-11eb-8e80-070cf0912ba3.png)|
+|             U1                   |     All      |          |  -      |![crystal_fire](https://user-images.githubusercontent.com/12781303/101279228-65d57280-37f3-11eb-9406-5a47c0813c3b.png)|
+|             U1                   |     All      |          |  -      |![crystal_flower](https://user-images.githubusercontent.com/12781303/101279235-71289e00-37f3-11eb-94eb-1b1e55203e18.png)|
+|             U1                   |     All      |          |  -      |![crystal_grand](https://user-images.githubusercontent.com/12781303/101279240-800f5080-37f3-11eb-9a95-b5ed0c51532c.png)|
+|             U1                   |     All      |          |  -      |![crystal_magic](https://user-images.githubusercontent.com/12781303/101279247-8ef60300-37f3-11eb-8efc-b209fcdb2bf5.png)|
+|             U1                   |     All      |          |  -      |![crystal_ore](https://user-images.githubusercontent.com/12781303/101279251-95847a80-37f3-11eb-93fe-6eb1a5643746.png)|
+|             U1                   |     All      |          |  -      |![curse_of_enfeeblement](https://user-images.githubusercontent.com/12781303/101279260-a2a16980-37f3-11eb-8ad2-7f80b6b2add3.png)|
+|             U1                   |     All      |          |  -      |![diamond_block](https://user-images.githubusercontent.com/12781303/101279265-ab923b00-37f3-11eb-8807-9d18d1ccf56e.png)|
+|             U1                   |     All      |          |  -      |![emerald_block](https://user-images.githubusercontent.com/12781303/101279280-c1076500-37f3-11eb-954a-0999d4df1a50.png)|
+|             U1                   |     All      |          |  -      |![firebomb](https://user-images.githubusercontent.com/12781303/101279287-ca90cd00-37f3-11eb-82fd-a5cef3327053.png)|
+|             U1                   |     All      |          |  -      |![gift](https://user-images.githubusercontent.com/12781303/101279292-d3819e80-37f3-11eb-97ed-915671baf643.png)|
+|             U1                   |     All      |          |  -      |![hazelnutchocolateitem](https://user-images.githubusercontent.com/12781303/101279297-da101600-37f3-11eb-891f-d6e72615ad56.png)|
+|             U1                   |     All      |          |  -      |![mana_flask_large](https://user-images.githubusercontent.com/12781303/101279301-ebf1b900-37f3-11eb-92c7-e5ae0b06ff1a.png)|
+|             U1                   |     All      |          |  -      |![obsidian_crust_2](https://user-images.githubusercontent.com/12781303/101279304-f57b2100-37f3-11eb-9932-42d689717d8b.png)|
+|             U1                   |     All      |          |  -      |![popped_chorus_fruit](https://user-images.githubusercontent.com/12781303/101279307-fdd35c00-37f3-11eb-97d4-7ca1c084c75d.png)|
+|             U1                   |     All      |          |  -      |![poison_bomb](https://user-images.githubusercontent.com/12781303/101279311-09268780-37f4-11eb-8a6e-402da6dbc140.png)|
+|             U1                   |     All      |          |  -      |![soup_rice](https://user-images.githubusercontent.com/12781303/101279322-1d6a8480-37f4-11eb-8581-13ce008d7583.png)|
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
+|             U1                   |     All      |          |  -      ||
 
 
