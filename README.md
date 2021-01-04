@@ -247,44 +247,44 @@ https://youtu.be/xJIY6p1vPdY
 |             U223                   |     All      |          |  -      |![naga_trophy](https://user-images.githubusercontent.com/12781303/101279661-3ecc7000-37f6-11eb-9e22-7ac7d3ca04d6.png)|
 |             U224                   |     All      |          |  -      |![lich_trophy](https://user-images.githubusercontent.com/12781303/101279662-3ffd9d00-37f6-11eb-92af-f9aabbefa4ac.png)|
 |             U225                   |     All      |          |  -      |![hydra_trophy](https://user-images.githubusercontent.com/12781303/101279663-41c76080-37f6-11eb-8cca-1ca724f7e4fd.png)|
-|             U2A01                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541199-a5b07800-4ecd-11eb-8c24-4b16296f34c9.png)|
-|             U2A02                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541243-c082ec80-4ecd-11eb-9a9e-f7a4990a48f8.png)|
-|             U2A03                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยfggvtgtgffย](https://user-images.githubusercontent.com/12781303/103541248-c24cb000-4ecd-11eb-9dac-f426242cf6ad.png)|
-|             U2A04                  |     All      |          |  -      |![tส้่fาrfrfffxffgdfgftrgยfggvtgtgffย](https://user-images.githubusercontent.com/12781303/103541252-c37ddd00-4ecd-11eb-9e7d-97dea9d8fb71.png)|
-|             U2A05                  |     All      |          |  -      |![tส้่fาrfrvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541262-c5e03700-4ecd-11eb-9840-dad4dc34425a.png)|
-|             U2A06                  |     All      |          |  -      |![tส้่fาrvfrvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541269-c7a9fa80-4ecd-11eb-934c-08d178a0c27c.png)|
-|             U2A07                  |     All      |          |  -      |![tส้่fาrvfrvvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541272-c973be00-4ecd-11eb-8439-bf4e87cbf49f.png)|
-|             U2A08                  |     All      |          |  -      |![tส้่fาrvfrvvvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541277-cbd61800-4ecd-11eb-9c42-4db5f6beee90.png)|
-|             U2A09                  |     All      |          |  -      |![tส้่fาfffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541702-659dc500-4ece-11eb-8628-553751fa1a73.png)|
-|             U2A10                  |     All      |          |  -      |![tส้่fาfffgfgftrgยfgtgtffย](https://user-images.githubusercontent.com/12781303/103541712-6898b580-4ece-11eb-86ed-39b72569e9d6.png)|
-|             U2A11                  |     All      |          |  -      |![tส้่fาfffgfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541718-6afb0f80-4ece-11eb-841f-9e32b7526d2a.png)|
-|             U2A12                  |     All      |          |  -      |![tส้่fาrffffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541728-6cc4d300-4ece-11eb-835a-365bc0946318.png)|
-|             U2A13                  |     All      |          |  -      |![tส้่fาrfffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541739-6e8e9680-4ece-11eb-8073-26a1194b4fc1.png)|
-|             U2A14                  |     All      |          |  -      |![tส้่fาrrffffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541745-70585a00-4ece-11eb-8a2f-fb38eb57c8d4.png)|
-|             U2A15                  |     All      |          |  -      |![tส้่fาrrfffxffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541752-72221d80-4ece-11eb-9c93-c9dff544ca17.png)|
-|             U2A16                  |     All      |          |  -      |![tส้่fาrrffxffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541755-73ebe100-4ece-11eb-85b6-0ca5855e1649.png)|
-|             U2A17                  |     All      |          |  -      |![!](https://user-images.githubusercontent.com/12781303/103541862-9e3d9e80-4ece-11eb-943e-d715908fefea.png)|
-|             U2A18                  |     All      |          |  -      |![งง](https://user-images.githubusercontent.com/12781303/103541865-9f6ecb80-4ece-11eb-9a22-1b90826e63b1.png)|
-|             U2A19                  |     All      |          |  -      |![คลิ๊กขวา](https://user-images.githubusercontent.com/12781303/103541867-a1388f00-4ece-11eb-8adf-468852ec9f51.png)|
-|             U2A20                  |     All      |          |  -      |![คลิ๊กซ้าย](https://user-images.githubusercontent.com/12781303/103541872-a3025280-4ece-11eb-8b91-00a03a152d2b.png)|
-|             U2A21                  |     All      |          |  -      |![middle](https://user-images.githubusercontent.com/12781303/103541880-a695d980-4ece-11eb-9b45-bea17505d434.png)|
-|             U2A22                  |     All      |          |  -      |![คี](https://user-images.githubusercontent.com/12781303/103541884-a85f9d00-4ece-11eb-93cc-5ff8f7e8d797.png)|
-|             U2A23                  |     All      |          |  -      |![Noti](https://user-images.githubusercontent.com/12781303/103541888-aac1f700-4ece-11eb-9d1d-fc52a83e6e00.png)|
-|             U2A24                  |     All      |          |  -      |![skull](https://user-images.githubusercontent.com/12781303/103541892-ad245100-4ece-11eb-8224-27a5d7b88fda.png)|
-|             U2A25                  |     All      |          |  -      |![แฟล](https://user-images.githubusercontent.com/12781303/103542078-f96f9100-4ece-11eb-8a87-a7b872f442ef.png)|
-|             U2A26                  |     All      |          |  -      |![แฟลก](https://user-images.githubusercontent.com/12781303/103542082-faa0be00-4ece-11eb-8929-00aa80503ccc.png)|
-|             U2A27                  |     All      |          |  -      |![แฟลกภ](https://user-images.githubusercontent.com/12781303/103542088-fc6a8180-4ece-11eb-96a9-576f6eeea5bc.png)|
-|             U2A28                  |     All      |          |  -      |![แฟลกภั](https://user-images.githubusercontent.com/12781303/103542090-fd9bae80-4ece-11eb-8b7a-01531fd5eca2.png)|
-|             U2A29                  |     All      |          |  -      |![แฟลกภัค](https://user-images.githubusercontent.com/12781303/103542095-ff657200-4ece-11eb-9175-c997560d1115.png)|
-|             U2A30                  |     All      |          |  -      |![แฟลก่ภัีค](https://user-images.githubusercontent.com/12781303/103542102-012f3580-4ecf-11eb-9810-a006811e456c.png)|
-|             U2A31                  |     All      |          |  -      |![แฟลก่่ภัีค](https://user-images.githubusercontent.com/12781303/103542105-02f8f900-4ecf-11eb-859f-67e9106f045c.png)|
-|             U2A32                  |     All      |          |  -      |![แฟล้ก่่ภัีค](https://user-images.githubusercontent.com/12781303/103542110-04c2bc80-4ecf-11eb-902a-3fefdaabaeae.png)|
-|             U2A33                  |     All      |          |  -      |![วห](https://user-images.githubusercontent.com/12781303/103542415-7bf85080-4ecf-11eb-8f46-ea5f3d7fb7b5.png)|
-|             U2A34                  |     All      |          |  -      |![วัว](https://user-images.githubusercontent.com/12781303/103542418-7d297d80-4ecf-11eb-805d-842918b511bb.png)|
-|             U2A35                  |     All      |          |  -      |![หมู](https://user-images.githubusercontent.com/12781303/103542422-7ef34100-4ecf-11eb-94a8-e0c6f4365152.png)|
-|             U2A36                  |     All      |          |  -      |![ไ่](https://user-images.githubusercontent.com/12781303/103542426-80246e00-4ecf-11eb-92d9-f021311443a9.png)|
-|             U2A37                  |     All      |          |  -      |![tส้่าrยttย](https://user-images.githubusercontent.com/12781303/103542433-83b7f500-4ecf-11eb-8d04-6346016729a8.png)|
-|             U2A38                  |     All      |          |  -      |![สก](https://user-images.githubusercontent.com/12781303/103542441-861a4f00-4ecf-11eb-86cf-5e60f1c24191.png)|
+|             U2A01                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541199-a5b07800-4ecd-11eb-8c24-4b16296f34c9.png)|
+|             U2A02                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541243-c082ec80-4ecd-11eb-9a9e-f7a4990a48f8.png)|
+|             U2A03                  |     All      |          |  -      |![tส้่fาrfrfffhxffgdfgftrgยfggvtgtgffย](https://user-images.githubusercontent.com/12781303/103541248-c24cb000-4ecd-11eb-9dac-f426242cf6ad.png)|
+|             U2A04                  |     All      |          |  -      |![tส้่fาrfrfffxffgdfgftrgยfggvtgtgffย](https://user-images.githubusercontent.com/12781303/103541252-c37ddd00-4ecd-11eb-9e7d-97dea9d8fb71.png)|
+|             U2A05                  |     All      |          |  -      |![tส้่fาrfrvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541262-c5e03700-4ecd-11eb-9840-dad4dc34425a.png)|
+|             U2A06                  |     All      |          |  -      |![tส้่fาrvfrvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541269-c7a9fa80-4ecd-11eb-934c-08d178a0c27c.png)|
+|             U2A07                  |     All      |          |  -      |![tส้่fาrvfrvvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541272-c973be00-4ecd-11eb-8439-bf4e87cbf49f.png)|
+|             U2A08                  |     All      |          |  -      |![tส้่fาrvfrvvvfffhxffgdfgftrgยcfggvtfgtgffย](https://user-images.githubusercontent.com/12781303/103541277-cbd61800-4ecd-11eb-9c42-4db5f6beee90.png)|
+|             U2A09                  |     All      |          |  -      |![tส้่fาfffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541702-659dc500-4ece-11eb-8628-553751fa1a73.png)|
+|             U2A10                  |     All      |          |  -      |![tส้่fาfffgfgftrgยfgtgtffย](https://user-images.githubusercontent.com/12781303/103541712-6898b580-4ece-11eb-86ed-39b72569e9d6.png)|
+|             U2A11                  |     All      |          |  -      |![tส้่fาfffgfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541718-6afb0f80-4ece-11eb-841f-9e32b7526d2a.png)|
+|             U2A12                  |     All      |          |  -      |![tส้่fาrffffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541728-6cc4d300-4ece-11eb-835a-365bc0946318.png)|
+|             U2A13                  |     All      |          |  -      |![tส้่fาrfffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541739-6e8e9680-4ece-11eb-8073-26a1194b4fc1.png)|
+|             U2A14                  |     All      |          |  -      |![tส้่fาrrffffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541745-70585a00-4ece-11eb-8a2f-fb38eb57c8d4.png)|
+|             U2A15                  |     All      |          |  -      |![tส้่fาrrfffxffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541752-72221d80-4ece-11eb-9c93-c9dff544ca17.png)|
+|             U2A16                  |     All      |          |  -      |![tส้่fาrrffxffgdfgftrgยfgvtgtffย](https://user-images.githubusercontent.com/12781303/103541755-73ebe100-4ece-11eb-85b6-0ca5855e1649.png)|
+|             U2A17                  |     All      |          |  -      |![!](https://user-images.githubusercontent.com/12781303/103541862-9e3d9e80-4ece-11eb-943e-d715908fefea.png)|
+|             U2A18                  |     All      |          |  -      |![งง](https://user-images.githubusercontent.com/12781303/103541865-9f6ecb80-4ece-11eb-9a22-1b90826e63b1.png)|
+|             U2A19                  |     All      |          |  -      |![คลิ๊กขวา](https://user-images.githubusercontent.com/12781303/103541867-a1388f00-4ece-11eb-8adf-468852ec9f51.png)|
+|             U2A20                  |     All      |          |  -      |![คลิ๊กซ้าย](https://user-images.githubusercontent.com/12781303/103541872-a3025280-4ece-11eb-8b91-00a03a152d2b.png)|
+|             U2A21                  |     All      |          |  -      |![middle](https://user-images.githubusercontent.com/12781303/103541880-a695d980-4ece-11eb-9b45-bea17505d434.png)|
+|             U2A22                  |     All      |          |  -      |![คี](https://user-images.githubusercontent.com/12781303/103541884-a85f9d00-4ece-11eb-93cc-5ff8f7e8d797.png)|
+|             U2A23                  |     All      |          |  -      |![Noti](https://user-images.githubusercontent.com/12781303/103541888-aac1f700-4ece-11eb-9d1d-fc52a83e6e00.png)|
+|             U2A24                  |     All      |          |  -      |![skull](https://user-images.githubusercontent.com/12781303/103541892-ad245100-4ece-11eb-8224-27a5d7b88fda.png)|
+|             U2A25                  |     All      |    ⨀      |  -      |![แฟล](https://user-images.githubusercontent.com/12781303/103542078-f96f9100-4ece-11eb-8a87-a7b872f442ef.png)|
+|             U2A26                  |     All      |    ⨁      |  -      |![แฟลก](https://user-images.githubusercontent.com/12781303/103542082-faa0be00-4ece-11eb-8929-00aa80503ccc.png)|
+|             U2A27                  |     All      |    ⨂      |  -      |![แฟลกภ](https://user-images.githubusercontent.com/12781303/103542088-fc6a8180-4ece-11eb-96a9-576f6eeea5bc.png)|
+|             U2A28                  |     All      |    ⨃      |  -      |![แฟลกภั](https://user-images.githubusercontent.com/12781303/103542090-fd9bae80-4ece-11eb-8b7a-01531fd5eca2.png)|
+|             U2A29                  |     All      |    ⨄      |  -      |![แฟลกภัค](https://user-images.githubusercontent.com/12781303/103542095-ff657200-4ece-11eb-9175-c997560d1115.png)|
+|             U2A30                  |     All      |    ⨅      |  -      |![แฟลก่ภัีค](https://user-images.githubusercontent.com/12781303/103542102-012f3580-4ecf-11eb-9810-a006811e456c.png)|
+|             U2A31                  |     All      |    ⨆      |  -      |![แฟลก่่ภัีค](https://user-images.githubusercontent.com/12781303/103542105-02f8f900-4ecf-11eb-859f-67e9106f045c.png)|
+|             U2A32                  |     All      |    ⨇      |  -      |![แฟล้ก่่ภัีค](https://user-images.githubusercontent.com/12781303/103542110-04c2bc80-4ecf-11eb-902a-3fefdaabaeae.png)|
+|             U2A33                  |     All      |    ⨈      |  -      |![วห](https://user-images.githubusercontent.com/12781303/103542415-7bf85080-4ecf-11eb-8f46-ea5f3d7fb7b5.png)|
+|             U2A34                  |     All      |    ⨉      |  -      |![วัว](https://user-images.githubusercontent.com/12781303/103542418-7d297d80-4ecf-11eb-805d-842918b511bb.png)|
+|             U2A35                  |     All      |    ⨊      |  -      |![หมู](https://user-images.githubusercontent.com/12781303/103542422-7ef34100-4ecf-11eb-94a8-e0c6f4365152.png)|
+|             U2A36                  |     All      |    ⨋      |  -      |![ไ่](https://user-images.githubusercontent.com/12781303/103542426-80246e00-4ecf-11eb-92d9-f021311443a9.png)|
+|             U2A37                  |     All      |    ⨌      |  -      |![tส้่าrยttย](https://user-images.githubusercontent.com/12781303/103542433-83b7f500-4ecf-11eb-8d04-6346016729a8.png)|
+|             U2A38                  |     All      |    ⨍      |  -      |![สก](https://user-images.githubusercontent.com/12781303/103542441-861a4f00-4ecf-11eb-86cf-5e60f1c24191.png)|
 |             U2A39                  |     All      |          |  -      |![ส้่ายtย](https://user-images.githubusercontent.com/12781303/103542449-87e41280-4ecf-11eb-99d4-fff879e92f26.png)|
 |             U2A40                  |     All      |          |  -      |![ส้่ายttย](https://user-images.githubusercontent.com/12781303/103542454-89add600-4ecf-11eb-94f8-9b69ea01a826.png)|
 |             U2A41                  |     All      |          |  -      |![tส้่fาrยttย](https://user-images.githubusercontent.com/12781303/103542587-bcf06500-4ecf-11eb-8e38-af575cca1102.png)|
