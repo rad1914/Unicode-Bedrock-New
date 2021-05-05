@@ -316,6 +316,7 @@ https://youtu.be/xJIY6p1vPdY
 |             U2A67                  |     All      |    ⨪      |  -      |![dis](https://user-images.githubusercontent.com/12781303/103542724-f032f400-4ecf-11eb-921b-b40c5e577aba.png)|
 |             U2A68                  |     All      |    ⨫      |  -      |![face](https://user-images.githubusercontent.com/12781303/103542727-f1642100-4ecf-11eb-8420-b9be4b1fd8ae.png)|
 |             U2A69                  |     All      |    ⨬      |  -      |![Yt](https://user-images.githubusercontent.com/12781303/103542733-f32de480-4ecf-11eb-9739-fc4d9b1b46c2.png)|
+|             U2A70                  |     All      |    ⨭      |  -      |![unnamed (1)](https://user-images.githubusercontent.com/12781303/117089407-a673f080-ad7f-11eb-8a65-096a6c63b116.png)|
 
 
 
