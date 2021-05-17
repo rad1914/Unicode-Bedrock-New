@@ -3,10 +3,6 @@
 
 Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ The Hive ให้ครับ
 
-ขอบคุณ Icon เพิ่มเติมจาก Filling Darkphase
-Facebook: https://www.facebook.com/fill.unlovers/
-U2A01 - U2A69
-
 
 เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
 https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
@@ -16,6 +12,9 @@ https://youtu.be/GHy_qYswfz0
 
 Unicode usage
 https://youtu.be/xJIY6p1vPdY
+
+Server install usage
+https://youtu.be/DOz0nD8pvnM
 
 
  #List Unicode
