@@ -363,5 +363,26 @@ https://youtu.be/DOz0nD8pvnM
 |             U2B16                  |     All      |    ⩚      |  -      |![mac_logo](https://user-images.githubusercontent.com/12781303/118395254-7c6dd880-b673-11eb-8b5a-6a658147b23c.png)|
 |             U2B17                  |     All      |    ⩛      |  -      |![palette](https://user-images.githubusercontent.com/12781303/118395255-7c6dd880-b673-11eb-9cfc-c8a64d271e79.png)|
 |             U2B18                  |     All      |    ⩜      |  -      |![wizard](https://user-images.githubusercontent.com/12781303/118395256-7d066f00-b673-11eb-9b36-3e97f90fa941.png)|
+|             U2B19                  |     All      |    ⩝      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 04](https://user-images.githubusercontent.com/12781303/123561243-7b32de00-d7d1-11eb-9a25-7759e8f28e00.png)|
+|             U2B20                  |     All      |    ⩞      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 16](https://user-images.githubusercontent.com/12781303/123561246-7cfca180-d7d1-11eb-967d-9d794c355a2b.png)|
+|             U2B21                  |     All      |    ⩟      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 23](https://user-images.githubusercontent.com/12781303/123561247-7d953800-d7d1-11eb-84bb-f90ddd354e17.png)|
+|             U2B22                  |     All      |    ⩠      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 29](https://user-images.githubusercontent.com/12781303/123561248-7e2dce80-d7d1-11eb-8532-1328f2b2c234.png)|
+|             U2B23                  |     All      |    ⩡      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 36](https://user-images.githubusercontent.com/12781303/123561249-7ec66500-d7d1-11eb-9bd3-a728eb77c189.png)|
+|             U2B24                  |     All      |    ⩢      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 42](https://user-images.githubusercontent.com/12781303/123561250-7ec66500-d7d1-11eb-9f5c-1ff9f5a5682c.png)|
+|             U2B25                  |     All      |    ⩣      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 50](https://user-images.githubusercontent.com/12781303/123561251-7f5efb80-d7d1-11eb-83b3-a9b0f542200a.png)|
+|             U2B26                  |     All      |    ⩤      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 20 56](https://user-images.githubusercontent.com/12781303/123561252-7ff79200-d7d1-11eb-963c-171f606a159f.png)|
+|             U2B27                  |     All      |    ⩥      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 02](https://user-images.githubusercontent.com/12781303/123561253-7ff79200-d7d1-11eb-8eb7-f88c1d1e9429.png)|
+|             U2B28                  |     All      |    ⩦      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 09](https://user-images.githubusercontent.com/12781303/123561254-80902880-d7d1-11eb-8212-c30f41570dbd.png)|
+|             U2B29                  |     All      |    ⩧      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 14](https://user-images.githubusercontent.com/12781303/123561257-8128bf00-d7d1-11eb-9965-b35fc5e7bdf9.png)|
+|             U2B30                  |     All      |    ⩨      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 20](https://user-images.githubusercontent.com/12781303/123561258-8128bf00-d7d1-11eb-8190-20d6eed7b6c3.png)|
+|             U2B31                  |     All      |    ⩩      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 26](https://user-images.githubusercontent.com/12781303/123561259-81c15580-d7d1-11eb-9f7c-96d92d928c87.png)|
+|             U2B32                  |     All      |    ⩪      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 32](https://user-images.githubusercontent.com/12781303/123561261-81c15580-d7d1-11eb-9121-dc57e1b1f72e.png)|
+|             U2B33                  |     All      |    ⩫      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 38](https://user-images.githubusercontent.com/12781303/123561262-8259ec00-d7d1-11eb-88a2-0c88a776a981.png)|
+|             U2B34                  |     All      |    ⩬      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 42](https://user-images.githubusercontent.com/12781303/123561264-82f28280-d7d1-11eb-9e48-c056e57b9c76.png)|
+|             U2B35                  |     All      |    ⩭      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 47](https://user-images.githubusercontent.com/12781303/123561266-82f28280-d7d1-11eb-8cd6-1939ec7a99a2.png)|
+|             U2B36                  |     All      |    ⩮      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 21 54](https://user-images.githubusercontent.com/12781303/123561267-838b1900-d7d1-11eb-8e29-ba44dfe9e621.png)|
+|             U2B37                  |     All      |    ⩯      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 01](https://user-images.githubusercontent.com/12781303/123561268-8423af80-d7d1-11eb-88e4-0d704cfa990d.png)|
+|             U2B38                  |     All      |    ⩰      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 06](https://user-images.githubusercontent.com/12781303/123561270-8423af80-d7d1-11eb-8334-d11a100563fc.png)|
+|             U2B39                  |     All      |    ⩱      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 12](https://user-images.githubusercontent.com/12781303/123561272-84bc4600-d7d1-11eb-8f0f-0d18f0616516.png)|
 
 
