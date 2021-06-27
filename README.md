@@ -1,24 +1,23 @@
-# Unicode-Bedrock-New + The Hive
- Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><
-
-Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ The Hive ให้ครับ
-
-
-เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
-https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
-
-How to install on mobile
-https://youtu.be/GHy_qYswfz0
-
-Unicode usage
-https://youtu.be/xJIY6p1vPdY
-
-Server install usage
-https://youtu.be/DOz0nD8pvnM
+# **`Unicode-Bedrock-New + The Hive`**
+ **Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><**
+**Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ `The Hive` ให้ครับ**
 
 
- #List Unicode
+**เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.**
+https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 
+> - <h2>How to install Unicode on mobile</h2>
+[![](http://img.youtube.com/vi/GHy_qYswfz0/0.jpg)](https://youtu.be/GHy_qYswfz0)
+
+
+> - <h2>Unicode usage</h2>
+[![](http://img.youtube.com/vi/xJIY6p1vPdY/0.jpg)](https://youtu.be/xJIY6p1vPdY)
+
+> - <h2>Server install usage</h2>
+[![](http://img.youtube.com/vi/DOz0nD8pvnM/0.jpg)](https://youtu.be/DOz0nD8pvnM)
+
+ > <h2>List Unicode</h2>
+ 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             U1                   |     All      |          |  -      |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870260-63c0c080-2c04-11eb-8429-793f601801d4.jpeg)|
