@@ -383,5 +383,35 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 |             U2B37                  |     All      |    ⩯      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 01](https://user-images.githubusercontent.com/12781303/123561268-8423af80-d7d1-11eb-88e4-0d704cfa990d.png)|
 |             U2B38                  |     All      |    ⩰      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 06](https://user-images.githubusercontent.com/12781303/123561270-8423af80-d7d1-11eb-8334-d11a100563fc.png)|
 |             U2B39                  |     All      |    ⩱      |  -      |![ภาพถ่ายหน้าจอ 2564-06-28 เวลา 05 22 12](https://user-images.githubusercontent.com/12781303/123561272-84bc4600-d7d1-11eb-8f0f-0d18f0616516.png)|
+|             U2B40                  |     All      |    ⩲      |  -      |![drake_bone](https://user-images.githubusercontent.com/12781303/182010076-153f93df-816c-4a76-a6eb-1364fec836ee.png)|
+|             U2B41                  |     All      |    ⩳      |  -      |![drake_bone_boots](https://user-images.githubusercontent.com/12781303/182010078-23d836f8-43d1-45f0-8659-546e626e5ff9.png)|
+|             U2B42                  |     All      |    ⩴      |  -      |![drake_bone_chestplate](https://user-images.githubusercontent.com/12781303/182010080-f47b1a46-80d9-4ff9-97b6-f477afa4e70c.png)|
+|             U2B43                  |     All      |    ⩵      |  -      |![drake_bone_helmet](https://user-images.githubusercontent.com/12781303/182010084-475bb8a3-44e3-41e8-a88e-c3959d4de2c2.png)|
+|             U2B44                  |     All      |    ⩶      |  -      |![drake_bone_leggings](https://user-images.githubusercontent.com/12781303/182010088-6532d762-45db-4cc1-a833-d43aa6eceb61.png)|
+|             U2B45                  |     All      |    ⩷      |  -      |![drake_bone_shard](https://user-images.githubusercontent.com/12781303/182010091-7c0a9e56-0042-4c7f-9a35-b01668a8335a.png)|
+|             U2B46                  |     All      |    ⩸      |  -      |![drake_bone_sword](https://user-images.githubusercontent.com/12781303/182010094-b92c361f-02bd-4bfa-b1d9-c86c7f2a9c9f.png)|
+|             U2B47                  |     All      |    ⩱      |  -      ||
+|             U2B48                  |     All      |    ⩱      |  -      ||
+|             U2B49                  |     All      |    ⩱      |  -      ||
+|             U2B50                  |     All      |    ⩱      |  -      ||
+|             U2B51                  |     All      |    ⩱      |  -      ||
+|             U2B52                  |     All      |    ⩱      |  -      ||
+|             U2B53                  |     All      |    ⩱      |  -      ||
+|             U2B54                  |     All      |    ⩱      |  -      ||
+|             U2B55                  |     All      |    ⩱      |  -      ||
+|             U2B56                  |     All      |    ⩱      |  -      ||
+|             U2B57                  |     All      |    ⩱      |  -      ||
+|             U2B58                  |     All      |    ⩱      |  -      ||
+|             U2B59                  |     All      |    ⩱      |  -      ||
+|             U2B60                  |     All      |    ⩱      |  -      ||
+|             U2B61                  |     All      |    ⩱      |  -      ||
+|             U2B62                  |     All      |    ⩱      |  -      ||
+|             U2B63                  |     All      |    ⩱      |  -      ||
+|             U2B64                  |     All      |    ⩱      |  -      ||
+|             U2B65                  |     All      |    ⩱      |  -      ||
+|             U2B66                  |     All      |    ⩱      |  -      ||
+|             U2B67                  |     All      |    ⩱      |  -      ||
+
+
 
 
