@@ -400,8 +400,7 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 |             U2B54                  |     All      |    ⪀      |  -      |![fantasy_mimic_tongue](https://user-images.githubusercontent.com/12781303/182010209-ec8fa11a-8426-48e8-80b9-62f2e98a9e2d.png)|
 |             U2B55                  |     All      |    ⪁      |  -      |![fantasy_orc_axe](https://user-images.githubusercontent.com/12781303/182010212-9bb104f3-8446-4d56-bed1-3eb0b4167cd5.png)|
 |             U2B56                  |     All      |    ⪂      |  -      |![fantasy_orc_buckle](https://user-images.githubusercontent.com/12781303/182010215-9a99ef08-1ad3-4653-8c47-0b5c77c5a472.png)|
-|             U2B57                  |     All      |    ⪃      |  -      |![fantasy_orc_fang](https://user-images.githubusercontent.com/12781303/182010316-24f6589d-4b61-44e3-907c-1db06ab47f2d.png)
--d2223b93-3775-43e8-9877-288d214c2211.png)|
+|             U2B57                  |     All      |    ⪃      |  -      |![fantasy_orc_fang](https://user-images.githubusercontent.com/12781303/182010316-24f6589d-4b61-44e3-907c-1db06ab47f2d.png)|
 |             U2B58                  |     All      |    ⪄      |  -      |![fantasy_piece_cloth](https://user-images.githubusercontent.com/12781303/182010227-cb5ef104-ade6-4b8a-8da0-b28b34129feb.png)|
 |             U2B59                  |     All      |    ⪅      |  -      |![fantasy_sacred_flower](https://user-images.githubusercontent.com/12781303/182010233-cc70d852-7370-4501-bb56-cb9aaf8b563d.png)|
 |             U2B60                  |     All      |    ⪆      |  -      |![fantasy_scale_lizardman](https://user-images.githubusercontent.com/12781303/182010242-b34bbf87-42a3-40ac-9e1a-061ad74847fe.png)|
